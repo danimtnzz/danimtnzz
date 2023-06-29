@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a DAM (Multiplatform Application Development) 
 - 🚀 **Frameworks and Tools:** Android Studio, Firebase.
 - 🗄️ **Databases:** SQL and PL/SQL.
 - 📊 **Information Management Systems (IMS):** I have experience using IMS to organize and manage projects.
-
+- 📖 **First Certificate in English (B2) - Cambridge University**
 ## Contact
 
 You can find me on the following social media platforms:
