@@ -1,5 +1,5 @@
 ### Hi there 👋
-Welcome to my GitHub profile! I'm a DAM (Multiplatform Application Development) student currently doing an internship at Jaleo App. 😄 I'm passionate about software development, and I specialize in the following technologies and tools:
+Welcome to my GitHub profile! I'm a DAM (Multiplatform Application Development) student 😄 I'm passionate about software development, and I specialize in the following technologies and tools:
 
 - 💻 **Programming Languages:** Java, SQL, PL/SQL, Markup Languages (HTML, CSS, XML...), Flutter, and Dart.
 - 🚀 **Frameworks and Tools:** Android Studio, Firebase.
