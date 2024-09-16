@@ -2,7 +2,7 @@
 Welcome to my GitHub profile! I'm a DAM (Multiplatform Application Development) student 😄 I'm passionate about software development, and I specialize in the following technologies and tools:
 
 - 💻 **Programming Languages:** Java,Markup Languages (HTML, CSS, XML...), and Dart.
-- 🚀 **Frameworks and Tools:** Flutter, Vue, SpringBoot,MySQL, PostgreSQL, MongoDB,Android Studio,Firebase.
+- 🚀 **Frameworks and Tools:** Flutter, Vue, SpringBoot, MySQL, PostgreSQL, MongoDB, Android Studio, Firebase.
 - 🗄️ **Databases:** SQL and PL/SQL.
 - 📊 **Information Management Systems (IMS):** I have experience using IMS to organize and manage projects.
 - 📖 **First Certificate in English (B2) - Cambridge University**
